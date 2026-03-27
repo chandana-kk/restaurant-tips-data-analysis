@@ -7,7 +7,7 @@ This project performs Exploratory Data Analysis (EDA) on the Tips Dataset to und
 - Study tipping patterns across different days
 - Understand the distribution of restaurant bills
 
-## Tools Used
+## Tools Used Here are
 - Python
 - Pandas
 - Seaborn
